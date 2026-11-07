@@ -1,0 +1,15 @@
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\bin\Debug\net10.0\KProblem.exe
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\bin\Debug\net10.0\KProblem.deps.json
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\bin\Debug\net10.0\KProblem.runtimeconfig.json
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\bin\Debug\net10.0\KProblem.dll
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\bin\Debug\net10.0\KProblem.pdb
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.AssemblyInfoInputs.cache
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.AssemblyInfo.cs
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.csproj.CoreCompileInputs.cache
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.dll
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\refint\KProblem.dll
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.pdb
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.genruntimeconfig.cache
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\ref\KProblem.dll
+C:\Users\karol.karcz\source\repos\KProblem\KProblem\obj\Debug\net10.0\KProblem.csproj.Up2Date
